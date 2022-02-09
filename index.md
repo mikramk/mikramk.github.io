@@ -1,54 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en-US">
-
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="/Ikram_Khan/assets/css/style.css?v=f64c09b429a922f6427df7db1c85dcdcef85866a">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Ikram_Khan | User Guide</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Ikram_Khan" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="User Guide" />
-<meta property="og:description" content="User Guide" />
-<link rel="canonical" href="https://mikramk.github.io/" />
-<meta property="og:url" content="https://mikramk.github.io/" />
-<meta property="og:site_name" content="Ikram_Khan" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Ikram_Khan" />
-<script type="application/ld+json">
-{"headline":"Ikram_Khan","description":"User Guide","url":"https://mikramk.github.io/","@type":"WebSite","name":"Ikram_Khan","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          
-            <a id="forkme_banner" href="https://github.com/mikramk/Ikram_Khan">View on GitHub</a>
-          
-
-          <a href="/Ikram_Khan/">
-            <h1 id="project_title">Ikram_Khan</h1>
-            <h2 id="project_tagline">User Guide</h2>
-          </a>
-
-          
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <p>Welcome to the Ikram_Khan User Guide.</p>
-
 <h1 id="contents">Contents</h1>
 
 <ul>
@@ -90,27 +40,10 @@
     </ul>
   </li>
   <li><a href="faq">6. FAQ</a></li>
-  <li><a href="donate">7. Donate</a></li>
+  
 </ul>
 
-<h2 id="other-languages">Other Languages</h2>
 
-<ul>
-  <li><a href="ru/">Russian</a></li>
-</ul>
-
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p class="copyright">Ikram_Khan maintained by <a href="https://github.com/mikramk">ikram.khan</a></p>
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
 
     
   </body>
